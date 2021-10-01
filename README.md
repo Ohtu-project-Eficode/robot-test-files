@@ -7,5 +7,5 @@ Demo commit from amandus
 
 Demo commit from l
 
-local
+remote
 
